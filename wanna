@@ -25,6 +25,4 @@ splay
 
 finished:
 左高树
-
-return:
-霍夫曼树
+霍夫曼树（half)
