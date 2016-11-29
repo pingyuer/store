@@ -5,7 +5,6 @@
 5、数论
 6、网络流
 7、dancing links
-8、博弈
 9、主席树
 10、splay
 11、高级DP算法  插头DP 四边形不等式优化 单调队列
@@ -26,3 +25,4 @@ splay
 finished:
 左高树
 霍夫曼树（half)
+博弈
